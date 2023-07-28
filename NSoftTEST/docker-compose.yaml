@@ -1,0 +1,31 @@
+version: '3.9'
+
+services:
+  match-end-result-generator:
+    build:
+      context: ./generator_server
+    restart: always
+    ports:
+      - "8000:8000"
+    depends_on:
+      - match-end-result-sinking-service
+
+  match-end-result-sinking-service:
+    build:
+      context: ./match-end-result-sinking-service
+    restart: always
+    ports:
+      - "8080:8080"
+    depends_on:
+      - psql-svc
+
+  psql-svc:
+    image: postgres:12.10-bullseye
+    volumes:
+        - './.data/db:/var/lib/postgresql/data'
+    environment:
+        - POSTGRES_DB=match_results
+        - POSTGRES_USER=postgres
+        - POSTGRES_PASSWORD=postgres
+    ports:
+        - "5432:5432"
