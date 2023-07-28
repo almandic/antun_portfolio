@@ -1,3 +1,32 @@
 .data
 apache-maven-3.9.3
+
+# Logs and databases #
+######################
+*.db*
+*.log
+*.sql
+*.sqlite
+pip-log.txt
+
+# OS generated files #
+######################
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+.sass-cache
+
+# IDE #
+#######
 .idea
+*.sublime-project
+*.sublime-workspace
+.vscode
+.jshintrc
+.pylintrc
