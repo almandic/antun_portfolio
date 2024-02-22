@@ -1,28 +1,29 @@
 # Antun_portfolio
-I am building my first portfolio with intention to use it in my job application.
+
+Hello and welcome to my GitHub portfolio. If you are reading this, I am probably looking for a new advanture in the field.
 
 ## About me
 
-My name is Antun Lucijan Mandić and I am medior machine learning engineer and full stack developer. 
-For the last three years, I've been learning as much as I can about this vast and very advanced field of science. 
-I have built very strong mathematics foundations with main focus in statistics and linear algebra. 
+My name is Antun Lucijan Mandić and I am software engineer with wide ranges of interests, from web development,
+embedded device programming and operating systems management to machine learning algorithms development and implementation.
 I fell in love with Python on the very beginning of my university education, and the love is here to stay for a long time.
-Even though I am a 3rd year student at Faculty of Mechanical Engineering, Computing and Electrical Engineering, I am looking for a job in the field because I think that is the best way to boost up my learning curve.
+I have built very strong mathematics foundations with main focus in statistics and linear algebra.
+Python is my language of choice because of his versatility that I am finding just amazing! 
 
-I also used C/C++ in my classes and learned the basics, while for object oriented programming I used Java.
-Currently, I'm working on C# and .NET project for my Programming Engineering class, and I am writing my bachelor thesis on Generative Adversarial Networks(GANs) 
-But Python is my main language, the one I want to grow in and master as much as I can. 
-For backend development, I use Django, and Django Rest Framework for API development. 
+Regarding other technologies, I also used Go, C/C++  and learned the basics, and I also experimented with Java.
+
+For backend development, I use mainly Django, the greatest backend framework ever build by mankind, and it's rich 
+ecosystem of libraries and frameworks like for example Django Rest Framework for API development. 
 Frontend design is not in my main focus, but I am familiar with HTML, CSS, Bootstrap5 and basics of JavaScript. 
-For DBMS I use MySQL.
+For DBMS, I mainly use PostgreSQL, but I also worked with MySQL/MariaDB, MongoDB and Redis.
 
 ## About this repository
 
-Here, I showed some basic matplotlib plots, introduction to numeric python with numpy, some basic machine learning algorithms with scikit-learn, and introductionary level of high performance computing with numba. 
+Here, I showed some basic matplotlib plots, introduction to numeric python with numpy, some basic machine learning 
+algorithms with scikit-learn, and introductory level of high performance computing with numba. 
 Pytorch is a framework that I liked very much, and I would like to spend my next few years mastering it. 
-In the pytroch file I presented an introduction to deep learning, CNN-s, RNN-s, then worked with various architectures, like ResNet, VGG, InceptionNet, LeNet, GRU, LSTM and so on...
-I seek true knowledge by looking for a job in the field, and waiting for a senior developer who will teach me, lead me, and I hope have a little bit patience with me.
-I didn't commit any of my Django projects here, but if you call me for an interview, we can speak about them in detail.
+In the PyTorch file I presented an introduction to deep learning, CNN-s, RNN-s, then worked with various architectures, 
+like ResNet, VGG, InceptionNet, LeNet, GRU, LSTM and so on...
 
 
 ### I am so very excited to be a part of the upcoming 4th industrial revolution.
