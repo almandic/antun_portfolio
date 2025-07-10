@@ -2,6 +2,7 @@
 
 # Poetry files
 poetry.lock
+pyproject.toml
 
 # Database
 *.sqlite3
