@@ -7,6 +7,7 @@ apache-maven-3.9.3
 *.log
 *.sql
 *.sqlite
+*.sqlite3
 pip-log.txt
 
 # OS generated files #
@@ -30,3 +31,6 @@ Thumbs.db
 .vscode
 .jshintrc
 .pylintrc
+
+# Poetry files
+poetry.lock
