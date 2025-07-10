@@ -1,1 +1,7 @@
 .idea
+
+# Poetry files
+poetry.lock
+
+# Database
+*.sqlite3
